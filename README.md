@@ -1,6 +1,8 @@
-# Swagger2PDF
+# Swagger2PDF ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/angrypotato/swagger2pdf.svg?style=flat-square)
 
 Swagger2PDF is a simple shell script that will convert a given swagger / openapi2.0 JSON file to a PDF file. Heavily inspired by [openapi-asciidoctor](https://github.com/Ajaxy/openapi-asciidoctor).
+
+Available on dockerhub: https://hub.docker.com/r/angrypotato/swagger2pdf
 
 ## Requirements
 
